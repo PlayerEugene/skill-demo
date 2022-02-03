@@ -1,3 +1,5 @@
 public class SkillDemo {
-    // empty
+    public static int square(int n) {
+        return n * n;
+    }
 }
